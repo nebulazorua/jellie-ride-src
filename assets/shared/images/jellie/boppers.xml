@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boppers.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bgboppers instance 10000" x="0" y="1310" width="1023" height="648" frameX="-5" frameY="-9" frameWidth="1028" frameHeight="657"/>
+	<SubTexture name="bgboppers instance 10001" x="2048" y="0" width="1023" height="642" frameX="-5" frameY="-9" frameWidth="1028" frameHeight="657"/>
+	<SubTexture name="bgboppers instance 10002" x="0" y="656" width="1026" height="651" frameX="0" frameY="0" frameWidth="1028" frameHeight="657"/>
+	<SubTexture name="bgboppers instance 10003" x="0" y="0" width="1026" height="653" frameX="0" frameY="0" frameWidth="1028" frameHeight="657"/>
+	<SubTexture name="bgboppers instance 10004" x="1026" y="1310" width="1016" height="651" frameX="-7" frameY="-2" frameWidth="1028" frameHeight="657"/>
+	<SubTexture name="bgboppers instance 10005" x="1029" y="0" width="1016" height="650" frameX="-7" frameY="-2" frameWidth="1028" frameHeight="657"/>
+	<SubTexture name="bgboppers instance 10006" x="0" y="1961" width="1017" height="650" frameX="-7" frameY="-2" frameWidth="1028" frameHeight="657"/>
+	<SubTexture name="bgboppers instance 10007" x="1020" y="1964" width="1015" height="648" frameX="-9" frameY="-4" frameWidth="1028" frameHeight="657"/>
+	<SubTexture name="bgboppers instance 10008" x="1029" y="653" width="1016" height="648" frameX="-9" frameY="-4" frameWidth="1028" frameHeight="657"/>
+	<SubTexture name="bgboppers instance 10009" x="1029" y="653" width="1016" height="648" frameX="-9" frameY="-4" frameWidth="1028" frameHeight="657"/>
+	<SubTexture name="bgboppers instance 10010" x="0" y="2614" width="1015" height="648" frameX="-10" frameY="-4" frameWidth="1028" frameHeight="657"/>
+	<SubTexture name="bgboppers instance 10011" x="2038" y="1964" width="1015" height="648" frameX="-10" frameY="-4" frameWidth="1028" frameHeight="657"/>
+	<SubTexture name="bgboppers instance 10012" x="2038" y="1964" width="1015" height="648" frameX="-10" frameY="-4" frameWidth="1028" frameHeight="657"/>
+	<SubTexture name="bgboppers instance 10013" x="2045" y="1304" width="1015" height="648" frameX="-10" frameY="-4" frameWidth="1028" frameHeight="657"/>
+</TextureAtlas>

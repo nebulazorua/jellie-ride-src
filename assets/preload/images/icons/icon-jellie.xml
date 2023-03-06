@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-jellie.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="icon-jellie0000" x="0" y="177" width="217" height="174" frameX="-6" frameY="-19" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0001" x="438" y="354" width="215" height="173" frameX="-4" frameY="-11" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0002" x="658" y="0" width="214" height="172" frameX="-4" frameY="-7" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0003" x="658" y="175" width="214" height="172" frameX="-3" frameY="-4" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0004" x="656" y="528" width="213" height="172" frameX="-3" frameY="-3" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0005" x="0" y="530" width="213" height="172" frameX="-3" frameY="-2" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0006" x="431" y="530" width="212" height="171" frameX="-3" frameY="-2" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0007" x="646" y="703" width="212" height="171" frameX="-3" frameY="-2" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0008" x="216" y="530" width="212" height="172" frameX="-3" frameY="-1" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0009" x="216" y="530" width="212" height="172" frameX="-3" frameY="-1" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0010" x="216" y="530" width="212" height="172" frameX="-3" frameY="-1" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0011" x="216" y="530" width="212" height="172" frameX="-3" frameY="-1" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0012" x="216" y="530" width="212" height="172" frameX="-3" frameY="-1" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0013" x="216" y="530" width="212" height="172" frameX="-3" frameY="-1" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0014" x="0" y="0" width="218" height="174" frameX="-3" frameY="-20" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0015" x="220" y="177" width="217" height="174" frameX="-1" frameY="-10" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0016" x="221" y="0" width="216" height="173" frameX="-1" frameY="-6" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0017" x="0" y="354" width="216" height="173" frameX="0" frameY="-3" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0018" x="219" y="354" width="216" height="173" frameX="0" frameY="-1" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0019" x="440" y="0" width="215" height="173" frameX="0" frameY="0" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0020" x="440" y="176" width="215" height="173" frameX="0" frameY="0" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0021" x="440" y="176" width="215" height="173" frameX="0" frameY="0" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0022" x="656" y="352" width="215" height="173" frameX="0" frameY="0" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0023" x="656" y="352" width="215" height="173" frameX="0" frameY="0" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0024" x="656" y="352" width="215" height="173" frameX="0" frameY="0" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0025" x="656" y="352" width="215" height="173" frameX="0" frameY="0" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0026" x="656" y="352" width="215" height="173" frameX="0" frameY="0" frameWidth="223" frameHeight="194"/>
+	<SubTexture name="icon-jellie0027" x="656" y="352" width="215" height="173" frameX="0" frameY="0" frameWidth="223" frameHeight="194"/>
+</TextureAtlas>

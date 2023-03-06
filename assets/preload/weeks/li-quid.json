@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"jellyride",
+			"jellie",
+			[
+				26,
+				233,
+				63
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "slimey mess",
+	"weekName": "among ass",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

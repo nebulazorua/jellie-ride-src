@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-face.png">
+    <!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+    <!-- http://www.adobe.com/products/flash.html -->
+    <SubTexture name="icon-face0000" x="0" y="0" width="150" height="150"/>
+    <SubTexture name="icon-face0000" x="150" y="0" width="150" height="150"/>
+</TextureAtlas>

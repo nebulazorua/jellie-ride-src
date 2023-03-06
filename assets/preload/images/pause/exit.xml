@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="exit.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="exit s0000" x="0" y="0" width="256" height="138" frameX="-60" frameY="-10" frameWidth="256" frameHeight="138"/>
+	<SubTexture name="exit uns0000" x="0" y="140" width="155" height="86" frameX="-9" frameY="-5" frameWidth="173" frameHeight="96"/>
+	<SubTexture name="exit uns0001" x="0" y="140" width="155" height="86" frameX="-9" frameY="-5" frameWidth="173" frameHeight="96"/>
+	<SubTexture name="exit uns0002" x="258" y="0" width="173" height="96"/>
+	<SubTexture name="exit uns0003" x="258" y="0" width="173" height="96"/>
+	<SubTexture name="exit uns0004" x="258" y="98" width="170" height="94" frameX="-2" frameY="-1" frameWidth="173" frameHeight="96"/>
+	<SubTexture name="exit uns0005" x="258" y="98" width="170" height="94" frameX="-2" frameY="-1" frameWidth="173" frameHeight="96"/>
+</TextureAtlas>

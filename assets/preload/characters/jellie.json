@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "zibidi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "zsleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				-137
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "zibidi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "zsup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-54
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "zibidi right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jellie",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "jellie",
+	"flip_x": false,
+	"healthbar_colors": [
+		65,
+		112,
+		85
+	],
+	"camera_position": [
+		-140,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

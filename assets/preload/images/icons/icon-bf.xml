@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-bf.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="icon-bf0000" x="492" y="332" width="238" height="153" frameX="0" frameY="-33" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0001" x="733" y="332" width="241" height="151" frameX="-6" frameY="-17" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0002" x="733" y="486" width="241" height="151" frameX="-10" frameY="-9" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0003" x="0" y="485" width="242" height="150" frameX="-12" frameY="-5" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0004" x="245" y="485" width="242" height="150" frameX="-13" frameY="-2" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0005" x="0" y="638" width="242" height="150" frameX="-14" frameY="-1" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0006" x="0" y="332" width="243" height="150" frameX="-14" frameY="0" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0007" x="246" y="332" width="243" height="150" frameX="-14" frameY="0" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0008" x="245" y="638" width="242" height="149" frameX="-15" frameY="0" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0009" x="245" y="638" width="242" height="149" frameX="-15" frameY="0" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0010" x="245" y="638" width="242" height="149" frameX="-15" frameY="0" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0011" x="245" y="638" width="242" height="149" frameX="-15" frameY="0" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0012" x="245" y="638" width="242" height="149" frameX="-15" frameY="0" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0013" x="245" y="638" width="242" height="149" frameX="-15" frameY="0" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0014" x="239" y="167" width="234" height="162" frameX="-6" frameY="-25" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0015" x="0" y="167" width="236" height="162" frameX="-8" frameY="-16" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0016" x="723" y="166" width="237" height="163" frameX="-9" frameY="-11" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0017" x="482" y="0" width="238" height="163" frameX="-10" frameY="-9" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0018" x="723" y="0" width="238" height="163" frameX="-10" frameY="-7" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0019" x="0" y="0" width="238" height="164" frameX="-11" frameY="-6" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0020" x="482" y="166" width="238" height="163" frameX="-11" frameY="-6" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0021" x="0" y="0" width="238" height="164" frameX="-11" frameY="-5" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0022" x="241" y="0" width="238" height="164" frameX="-11" frameY="-5" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0023" x="241" y="0" width="238" height="164" frameX="-11" frameY="-5" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0024" x="241" y="0" width="238" height="164" frameX="-11" frameY="-5" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0025" x="241" y="0" width="238" height="164" frameX="-11" frameY="-5" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0026" x="241" y="0" width="238" height="164" frameX="-11" frameY="-5" frameWidth="257" frameHeight="187"/>
+	<SubTexture name="icon-bf0027" x="241" y="0" width="238" height="164" frameX="-11" frameY="-5" frameWidth="257" frameHeight="187"/>
+</TextureAtlas>
